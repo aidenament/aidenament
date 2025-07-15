@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey there! I'm Aiden
 
-<!--
-**aidenament/aidenament** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Agent Engineer** who builds production-ready systems.
 
-Here are some ideas to get you started:
+<img src="monkey.gif" width="200" alt="AI Agent at work">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Bring
+UCLA Math & Computer Science grad with real-world ML experience designing advanced hospital scheduling software.
+
+## Recent Work
+- Designing robust RAG pipelines that don't hallucinate when it matters
+- Building AI agents with reliable tool integration
+- Crafting prompts that work consistently across edge cases
+- Scaling ML systems from prototype to production
+
+I also co-founded [UCLA's AI Safety club](https://aisafetyatucla.org/) because building safe AI is important.
+
+**Website:** [aidenament.com](https://aidenament.com)
+
+---
+*Looking for an AI engineer who can ship reliable systems? Let's talk.*
