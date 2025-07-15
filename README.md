@@ -2,10 +2,10 @@
 
 **AI Agent Engineer** who builds production-ready systems.
 
-<img src="monkey.gif" width="200" alt="AI Agent at work">
+<img src="monkey.gif" width="400" alt="Me at work">
 
 ## What I Bring
-UCLA Math & Computer Science grad with real-world ML experience designing advanced hospital scheduling software.
+UCLA Math & Computer Science grad with real-world ML experience designing hospital scheduling software.
 
 ## Recent Work
 - Designing robust RAG pipelines that don't hallucinate when it matters
