@@ -17,5 +17,4 @@ I also co-founded [UCLA's AI Safety club](https://aisafetyatucla.org/) because b
 
 **Website:** [aidenament.com](https://aidenament.com)
 
----
-*Looking for an AI engineer who can ship reliable systems? Let's talk.*
+
