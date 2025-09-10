@@ -5,7 +5,7 @@
 <img src="monkey.gif" width="400" alt="Me at work">
 
 ## What I Bring
-UCLA Math & Computer Science grad with real-world ML experience designing hospital scheduling software.
+UCLA Math & Computer Science grad with real-world ML experience designing AI Security Systems.
 
 ## Recent Work
 - Designing robust RAG pipelines that don't hallucinate when it matters
