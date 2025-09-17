@@ -8,7 +8,7 @@
 UCLA Math & Computer Science grad with real-world ML experience designing AI security systems.
 
 ## Recent Work
-- Designing robust RAG pipelines that don't hallucinate when it matters
+- Designing robust RAG pipelines that don't hallucinate
 - Building AI agents with reliable tool integration
 - Crafting prompts that work consistently across edge cases
 - Scaling ML systems from prototype to production
