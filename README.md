@@ -1,11 +1,11 @@
 # Hey there! I'm Aiden
 
-**AI Agent Engineer** who builds production-ready systems.
+**AI Security Engineer** building production systems.
 
 <img src="monkey.gif" width="400" alt="Me at work">
 
 ## What I Bring
-UCLA Math & Computer Science grad with real-world ML experience designing AI security systems.
+UCLA Math & Computer Science grad with real-world ML experience.
 
 ## Recent Work
 - Designing robust RAG pipelines that don't hallucinate
